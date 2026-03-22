@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html>
+<style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
 
+    td, th {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+      width: 33.33%;
+      height: 50px; 
+    }
+  </style>
 <head>
     <title style="text-align: center;"></ class="center">Mon emploi du temps</title>
-    <img src="images/logo1.png" alt="Emploi du temps" width="400">
+    <div style="text-align: center;">
+        <img src="images/logo1.png" alt="Logo" width="400">
+    </div>
+    <u><p style="text-align: right;">annee universitaire 2025-2026</p></u>
+    <img src="images/photo1.png" alt="Emploi du temps" width="200">
+    <h2 style="text-align: center;">Emploi du temps (previsoire) --IAIL-S2</h2>   
 </head>
 
 <body>
-    <h2>Emploi du temps</h2>
     <table border="1">
         <tr>
             <th bgcolor="AACDDC">Heure</th>
@@ -20,19 +38,19 @@
         </tr>
         <tr>
             <th bgcolor="AACDDC">lundi</th>
-            <td>Programmation pyton</td>
-            <td>Programmation C</td>
+            <td>Programmation pyton<br>Prof M.larqui<br>cours - amphi A</td>
+            <td>Programmation C<br>Prof H.Oudani<br>cours - amphi A</td>
             <td></td>
-            <td>Programmation C</td>
-            <td>Programmation pyton</td>
-            <td>Programmation pyton</td>
+            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof M.larqui</td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp3 - salle P2</p>Prof A.Elouardi</td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp2 - salle P2</p>Prof A.Elouardi</td>
         </tr>
         <tr>
             <th bgcolor="AACDDC">mardi</th>
-            <td>Programmation pyton</td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof M.larqui</td>
             <td></td>
-            <td>digital skills</td>
-            <td>digital skills</td>
+            <td>digital skills<br>Prof A.Elouardi<br>cours - amphi A</td>
+            <td>digital skills<br>Prof A.Elouardi<br>Tp/Td - amphi A</td>
             <td></td>
             <td></td>
         </tr>
@@ -41,14 +59,14 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>Programmation C</td>
-            <td>algebre</td>
-            <td>analyse</td>
+            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof H.Oudani</td>
+            <td>algebre<br>Td - amphi A<br>Prof I.boutaayamo</td>
+            <td>analyse<br>Td - amphi A<br>Prof A.Hadri</td>
         </tr>
         <tr>
             <th bgcolor="AACDDC">jeudi</th>
-            <td>traitement de signal</td>
-            <td>traitement de signal</td>
+            <td>traitement de signal<br>cours - amphi A<br>Prof H.Azzahhafi</td>
+            <td>traitement de signal<br>Td - amphi A<br>Prof H.Azzahhafi</td>
             <td></td>
             <td></td>
             <td></td>
@@ -56,8 +74,8 @@
         </tr>
         <tr>
             <th bgcolor="AACDDC">vendredi</th>
-            <td>algebre</td>
-            <td>analyse</td>
+            <td>algebre<br>Td - amphi C<br>Prof I.boutaayamo</td>
+            <td>analyse<br>Td - amphi C<br>Prof A.Hadri</td>
             <td></td>
             <td></td>
             <td></td>
@@ -69,8 +87,8 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>programation web</td>
-            <td>programation web</td>
+            <td>programation web<br>cours - salle P1<br>Prof K.Omari</td>
+            <td>programation web<p style="color: red;">Tp/Td - salle P2</p>Prof K.Omari</td>
         </tr>
     </table>
 </body>
