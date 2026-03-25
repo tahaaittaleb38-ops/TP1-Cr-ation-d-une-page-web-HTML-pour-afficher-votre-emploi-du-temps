@@ -6,7 +6,6 @@
       border-collapse: collapse;
       table-layout: fixed;
     }
-
     td, th {
       border: 1px solid black;
       padding: 10px;
@@ -21,7 +20,7 @@
         <img src="images/logo1.png" alt="Logo" width="400">
     </div>
     <u><p style="text-align: right;">annee universitaire 2025-2026</p></u>
-    <img src="images/photo1.png" alt="Emploi du temps" width="200">
+    <img src="images/photo1.png" alt="signature" width="200">
     <h2 style="text-align: center;">Emploi du temps (previsoire) --IAIL-S2</h2>   
 </head>
 
@@ -29,12 +28,12 @@
     <table border="1">
         <tr>
             <th bgcolor="AACDDC">Heure</th>
-            <td bgcolor="AACDDC">08:00 - 10:00</td>
-            <td bgcolor="AACDDC">10:00 - 12:00</td>
-            <td bgcolor="AACDDC">14:00 - 16:00</td>
-            <td bgcolor="AACDDC">16:00 - 18:00</td>
-            <td bgcolor="AACDDC">08:00 - 10:00</td>
-            <td bgcolor="AACDDC">14:00 - 16:00</td>
+            <td bgcolor="AACDDC">09:00 - 10:30</td>
+            <td bgcolor="AACDDC">10:30 - 12:00</td>
+            <td bgcolor="AACDDC">12:15 - 13:45</td>
+            <td bgcolor="AACDDC">13:45 - 15:15</td>
+            <td bgcolor="AACDDC">15:30 - 17:00</td>
+            <td bgcolor="AACDDC">17:00 - 18:30</td>
         </tr>
         <tr>
             <th bgcolor="AACDDC">lundi</th>
