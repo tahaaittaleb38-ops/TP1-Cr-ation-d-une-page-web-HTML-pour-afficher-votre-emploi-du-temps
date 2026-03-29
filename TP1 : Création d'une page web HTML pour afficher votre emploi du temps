@@ -37,19 +37,19 @@
         </tr>
         <tr>
             <th bgcolor="AACDDC">lundi</th>
-            <td>Programmation pyton<br>Prof M.larqui<br>cours - amphi A</td>
-            <td>Programmation C<br>Prof H.Oudani<br>cours - amphi A</td>
+            <td>Programmation pyton<br><a href="message_prof.html">Prof M.larqui</a><br>cours - amphi A</td>
+            <td>Programmation C<br><a href="message_prof.html">Prof H.Oudani</a><br>cours - amphi A</td>
             <td></td>
-            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof M.larqui</td>
-            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp3 - salle P2</p>Prof A.Elouardi</td>
-            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp2 - salle P2</p>Prof A.Elouardi</td>
+            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p><a href="message_prof.html">Prof M.larqui</a></td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp3 - salle P2</p><a href="message_prof.html">Prof A.Elouardi</a></td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp2 - salle P2</p><a href="message_prof.html">Prof A.Elouardi</a></td>
         </tr>
         <tr>
             <th bgcolor="AACDDC">mardi</th>
-            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof M.larqui</td>
+            <td>Programmation pyton<br><p style="color: red;">Tp/Td Grp1 - salle P2</p><a href="message_prof.html">Prof M.larqui</a></td>
             <td></td>
-            <td>digital skills<br>Prof A.Elouardi<br>cours - amphi A</td>
-            <td>digital skills<br>Prof A.Elouardi<br>Tp/Td - amphi A</td>
+            <td>digital skills<br><a href="message_prof.html">Prof A.Elouardi</a><br>cours - amphi A</td>
+            <td>digital skills<br><a href="message_prof.html">Prof A.Elouardi</a><br>Tp/Td - amphi A</td>
             <td></td>
             <td></td>
         </tr>
@@ -58,14 +58,14 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p>Prof H.Oudani</td>
-            <td>algebre<br>Td - amphi A<br>Prof I.boutaayamo</td>
-            <td>analyse<br>Td - amphi A<br>Prof A.Hadri</td>
+            <td>Programmation C<br><p style="color: red;">Tp/Td Grp1 - salle P2</p><a href="message_prof.html">Prof H.Oudani</a></td>
+            <td>algebre<br>Td - amphi A<br><a href="message_prof.html">Prof I.boutaayamo</a></td>
+            <td>analyse<br>Td - amphi A<br><a href="message_prof.html">Prof A.Hadri</a></td>
         </tr>
         <tr>
             <th bgcolor="AACDDC">jeudi</th>
-            <td>traitement de signal<br>cours - amphi A<br>Prof H.Azzahhafi</td>
-            <td>traitement de signal<br>Td - amphi A<br>Prof H.Azzahhafi</td>
+            <td>traitement de signal<br>cours - amphi A<br><a href="message_prof.html">Prof H.Azzahhafi</a></td>
+            <td>traitement de signal<br>Td - amphi A<br><a href="message_prof.html">Prof H.Azzahhafi</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -73,8 +73,8 @@
         </tr>
         <tr>
             <th bgcolor="AACDDC">vendredi</th>
-            <td>algebre<br>Td - amphi C<br>Prof I.boutaayamo</td>
-            <td>analyse<br>Td - amphi C<br>Prof A.Hadri</td>
+            <td>algebre<br>Td - amphi C<br><a href="message_prof.html">Prof I.boutaayamo</a></td>
+            <td>analyse<br>Td - amphi C<br><a href="message_prof.html">Prof A.Hadri</a></td>
             <td></td>
             <td></td>
             <td></td>
@@ -86,8 +86,8 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>programation web<br>cours - salle P1<br>Prof K.Omari</td>
-            <td>programation web<p style="color: red;">Tp/Td - salle P2</p>Prof K.Omari</td>
+            <td>programation web<br>cours - salle P1<br><a href="message_prof.html">Prof K.Omari</a></td>
+            <td>programation web<p style="color: red;">Tp/Td - salle P2</p><a href="message_prof.html">Prof K.Omari</a></td>
         </tr>
     </table>
 </body>
