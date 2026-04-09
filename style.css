@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    color: #000000;
+}
+
+h1 {
+    color: #01254a;
+}
+
+h2 {
+    color: #874040;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.job {
+    margin-bottom: 3px;
+}
