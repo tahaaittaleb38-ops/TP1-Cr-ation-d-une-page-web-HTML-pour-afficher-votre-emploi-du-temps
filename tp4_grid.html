@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+  <title>TP4 – CSS Grid</title>
+  <link rel="stylesheet" href="tp4_style.CSS">
+
+</head>
+<body>
+
+  <h1>TP4 — CSS Grid</h1>
+  <p class="subtitle">Mise en page de boîtes avec CSS Grid &amp; effets au survol</p>
+ 
+  <div class="container">
+ 
+    <div class="box box1">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrTvq0IhFNzAocOAJEtsFGJJ1NrEdtkoN8A&s" alt="Image 1">
+      <h2>Title 1</h2>
+      <p>Description de la première boîte. Contenu illustratif.</p>
+      <button>Button 1</button>
+    </div>
+
+    <div class="box box2">
+      <img src="https://pbs.twimg.com/media/GhJp0sMaAAA0yCl?format=jpg&name=900x900" alt="Image 2">
+      <h2>Title 2</h2>
+      <p>Cette boîte s'étend sur deux colonnes grâce à grid-column: 2 / 4.</p>
+      <button>Button 2</button>
+    </div>
+
+    <div class="box box3">
+      <img src="https://pbs.twimg.com/media/GpmhgVJWoAANRBf?format=jpg&name=900x900" alt="Image 3">
+      <h2>Title 3</h2>
+      <p>Description de la troisième boîte.</p>
+      <button>Button 3</button>
+    </div>
+
+    <div class="box box4">
+      <img src="https://img.youm7.com/ArticleImgs/2021/12/1/151940-%D9%84%D8%A7%D8%B9%D8%A8%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%85%D8%B9-%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A.jpeg" alt="Image 4">
+      <h2>Title 4</h2>
+      <p>Description de la quatrième boîte.</p>
+      <button>Button 4</button>
+    </div>
+ 
+    <div class="box box5">
+      <img src="https://i.pinimg.com/736x/66/8b/1d/668b1d4e9702492a0fafd8ae01d63634.jpg" alt="Image 5">
+      <h2>Title 5</h2>
+      <p>Description de la cinquième boîte.</p>
+      <button>Button 5</button>
+    </div>
+
+    <div class="box box6">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvVrtAVW7uymTrpkrk-8NzSserxJF65iiyQ&s" alt="Image 6">
+      <div class="box6-content">
+        <h2>Title 6</h2>
+        <p>Cette boîte occupe toute la largeur de la grille grâce à grid-column: 1 / 4. Elle s'étend du début à la fin du conteneur, idéale pour les contenus mis en avant.</p>
+        <button style="width:fit-content">Button 6</button>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
